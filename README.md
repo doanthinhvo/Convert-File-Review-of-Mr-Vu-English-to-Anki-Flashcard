@@ -1,1 +1,1 @@
-# Convert-File-Review-of-Mr-Vu-English-to-Anki-Flashcard
+Currently, I'm studying in Mr. Vu's English Class. After each session, he sends me a review file that summarizes all the structures learned in this session. This is a good format pdf file. So I use Python to convert it to a text file that can import easily to Anki, a program that makes remembering things easy. Here is my code. 
